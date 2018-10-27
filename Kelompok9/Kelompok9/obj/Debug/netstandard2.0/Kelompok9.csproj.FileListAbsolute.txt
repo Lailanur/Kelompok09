@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\bin\Debug\netstandard2.0\Kelompok9.deps.json
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\bin\Debug\netstandard2.0\Kelompok9.dll
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\bin\Debug\netstandard2.0\Kelompok9.pdb
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.App.xaml.g.cs
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.LoginPage.xaml.g.cs
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.MainPage.xaml.g.cs
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.SignUpPage.xaml.g.cs
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.dll
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9\obj\Debug\netstandard2.0\Kelompok9.pdb

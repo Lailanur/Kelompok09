@@ -1,0 +1,2 @@
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9.Android\obj\Debug\MonoAndroid71\Kelompok9.Android.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Kelompok9\Kelompok9\Kelompok9.Android\obj\Debug\MonoAndroid71\res.flag
